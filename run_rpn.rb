@@ -4,7 +4,7 @@ require_relative "rpn_calculator"
 calculator = Calculator.new
 #Starting the calculator introduction and directions
 print " Welcome to the RPN Calculator, please read the instructions below!\n"
- print " Press q press enter to exit\n"
+ print " Press q + enter at any time to exit\n"
  print " Press any key and press enter to start the calculator\n"
 # Takes any key to move on to the While loop
 input = "#{gets}"
