@@ -7,7 +7,8 @@ Note: If you do not have Ruby downloaded, go to [Ruby download page.](https://ww
 
 To use the RPN calculator:
 1. Clone or Download both files into the same folder
-2. Double click the ```run_rpn.rb``` file or invoke it from your command line with: ```folder\location\ruby run_rpn.rb```
+2. Extract downloaded folder into desired local folder
+3. Double click the ```run_rpn.rb``` file OR invoke it from your command line with: ```folder\location\ruby run_rpn.rb```
 
 This will start the application and load the below welcome screen:
 ```
