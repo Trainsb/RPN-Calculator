@@ -29,7 +29,7 @@ This will start the application and load the below welcome screen:
  Values that are either ```-6```, floats ```5.6```, and integers ```8``` are supported
  
  
-#Overall architectur:
+# Overall architecture:
 This RPN is built of 2 files, one that does all the calculations and the other that controls the users input.
 
 The main calculator is build around if/elif statements that check what has been entered and then uses seperate functions to execute based on those if/elif statements. It is fairly clean and simple (DRY) however the error handling could be better. I did look at the option to use ```case``` and ```when``` paired with regular expressions for error handling; however that got messy and caused bugs fast.
